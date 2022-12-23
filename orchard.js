@@ -50,7 +50,9 @@ const pinkPrice = .55
 */
 
 // CODE HERE
-
+for(var i=0; i< nums.length; i++) {
+var totalAcres = num1[i] +num2[i] +num3[i] }
+console.log('totalAcres')
 
 
 
