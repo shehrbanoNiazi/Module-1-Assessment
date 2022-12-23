@@ -7,7 +7,9 @@
 /*
     Create a variable called 'gitDefinition'.
     It should be a string containing your best definition of what Git is.
-*/
+*/var definition = 'gitDefinition'
+const str = (git);
+console.log( 
 
 //CODE HERE
 
