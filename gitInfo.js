@@ -63,7 +63,7 @@ console.log( 'git status displays the working directory and staging area' )
 */
 
 //CODE HERE
-
+var gitAddDefinition(defition)
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
