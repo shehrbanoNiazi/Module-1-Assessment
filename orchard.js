@@ -50,10 +50,12 @@ const pinkPrice = .55
 */
 
 // CODE HERE
-for(var i=0; i< nums.length; i++) {
-var totalAcres = num1[i] +num2[i] +num3[i] }
-console.log('totalAcres')
-
+let totalAcres= 0
+for(let i=0; i< pinkAcres.length; i++) {
+   totalAcres = fujiAcres[i] + galaAcres[i] + pinkAcres[i] + totalAcres
+  
+}
+ console.log(totalAcres)
 
 
 
@@ -71,7 +73,8 @@ console.log('totalAcres')
 
 // CODE HERE
 
-
+const averageDailyAcres = totalAcres/ 21
+console.log(averageDailyAcres)
 
 
 
@@ -203,7 +206,7 @@ let days = 0
 // PROBLEM 7
 
 /*
-    Add up all your profits and save 
+    Add up all your profits and save  ,
     the number to a variable called 
     `totalProfit`.
 
