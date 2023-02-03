@@ -7,9 +7,8 @@
 /*
     Create a variable called 'gitDefinition'.
     It should be a string containing your best definition of what Git is.
-*/var definition = 'gitDefinition'
-const str = (git);
-console.log( 'git helps you keep track of changes' )
+*/const gitDefinition = 'git helps you keep track of changes'
+
 
 //CODE HERE
 
@@ -20,9 +19,8 @@ console.log( 'git helps you keep track of changes' )
 */
 
 //CODE HERE
-var definition = 'gitHubDefinition'
-const str = (gitHub);
-console.log( 'gitHub is a repository where development projects can be stored' )
+const gitHubDefinition = 'gitHub is a repository where development projects can be stored' 
+
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -30,9 +28,8 @@ console.log( 'gitHub is a repository where development projects can be stored' )
 */
 
 //CODE HERE
-var definition = 'gitInitDefinition'
-const str = (gitinti);
-console.log( 'git int creates empty git repositoryvar definition')
+const gitInitDefinition = 'git int creates empty git repositoryvar definition'
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -40,9 +37,8 @@ console.log( 'git int creates empty git repositoryvar definition')
 */
 
 //CODE HERE
-var definition = 'gitCloneDefinition'
-const str = (gitClone);
-console.log( 'gitclone makes a copy in a new directory' )
+const gitCloneDefinition = 'gitclone makes a copy in a new directory'
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -50,9 +46,8 @@ console.log( 'gitclone makes a copy in a new directory' )
 */
 
 //CODE HERE
-var definition = 'gitStatusDefinition'
-const str = (gitStatus);
-console.log( 'git status displays the working directory and staging area' )
+const gitStatusDefinition = 'git status displays the working directory and staging area'
+
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -63,7 +58,10 @@ console.log( 'git status displays the working directory and staging area' )
 */
 
 //CODE HERE
-var gitAddDefinition(defition)
+const gitAddDefinition = 'The git add command adds a file or folder to the staging area'
+
+const gitAddCode = ' adds a change in the working directory to the staging area'
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -74,7 +72,9 @@ var gitAddDefinition(defition)
 */
 
 //CODE HERE
+const gitCommitDefinition = 'saves all currently staged changes of the project'
 
+const gitCommitCode = ' performs a commit'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -83,6 +83,5 @@ var gitAddDefinition(defition)
 */
 
 //CODE 
-var definition = 'gitPushDefinition'
-const str = (gitPush);
-console.log( 'git Push helps push comands ' )
+const gitPushDefinition = 'git Push helps push comands'
+
